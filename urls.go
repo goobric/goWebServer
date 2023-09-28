@@ -7,7 +7,7 @@ import (
 
 const myurl string = "https://lco.dev:3000/learn?coursename=reactjs&paymentid=ghbj456abc"
 
-func urls(){
+func Urls(){
 	fmt.Println("Welcome to handling URLs in golang")
 	fmt.Println(myurl)
 
